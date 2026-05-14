@@ -5,9 +5,6 @@ University of Birmingham, UK
 
 ---
 
-
-Full list on [Google Scholar](https://scholar.google.com/citations?user=rg3R9-IAAAAJ).
-
 ## 📬 Contact & profiles
 
 [![Email](https://img.shields.io/badge/-c.kaewmeechai@bham.ac.uk-D14836?style=flat&logo=gmail&logoColor=white)](mailto:c.kaewmeechai@bham.ac.uk)
