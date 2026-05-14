@@ -1,17 +1,16 @@
 # Chaiyawat Kaewmeechai
 
-**Postdoctoral Researcher — Materials Physics** 🔬
+**Postdoctoral Researcher — Materials Physics** 
 University of Birmingham, UK
 
 ---
 
-I am a computational materials physicist working on defect modeling in amorphous and crystalline oxides. My PhD at UCL (under Prof. Alexander Shluger) focused on charge trapping and defect formation in **Ga₂O₃** using density-functional theory and molecular dynamics. I am currently training **machine-learning force fields with MACE** for non-stoichiometric amorphous GaOₓ systems.
-
+I am a computational materials physicist working on defect modeling in amorphous and crystalline oxides. My PhD at UCL (under Prof. Alexander Shluger) focused on charge trapping and defect formation in **Ga₂O₃** using density-functional theory and molecular dynamics.
 ## 🔭 Research interests
 
 - Point defects and charge trapping in wide-bandgap semiconductors
 - Amorphous and crystalline gallium oxides (α-, β-, ε-Ga₂O₃)
-- *Ab initio* molecular dynamics and ML interatomic potentials (MACE)
+- *Ab initio* molecular dynamics and ML interatomic potentials 
 - Halide perovskites for photovoltaic applications
 
 ## 🛠️ Tools & methods
